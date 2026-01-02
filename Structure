@@ -1,0 +1,13 @@
+src/
+└── main/
+    └── java/com/example/bank/
+        ├── BankApplication.java
+        ├── model/
+        │   ├── User.java
+        │   ├── Transaction.java
+        │   ├── OperationRecord.java
+        │   └── ApiResponse.java
+        ├── service/
+        │   └── BankService.java
+        └── controller/
+            └── BankController.java
